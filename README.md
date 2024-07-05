@@ -1,6 +1,7 @@
 # Contour Visualization and Interaction Tool
 
 This Python application visualizes geometric contours and allows for interactive selection and manipulation of contour elements. The application uses `matplotlib` for graphical representation and `mplcursors` for creating tooltips and handling interactive events. Users can interact with lines and arcs in the plot, select them with a `Shift`+click, and reset the selections with the `Esc` key.
+![alt-текст](docs/contour_visualization.jpg)
 
 ## Features
 
