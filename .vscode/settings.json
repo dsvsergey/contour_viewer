@@ -6,6 +6,7 @@
         "fontsize",
         "linestyle",
         "linewidth",
+        "matplotlib",
         "mouseevent",
         "xlabel",
         "ylabel"
